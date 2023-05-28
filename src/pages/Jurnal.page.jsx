@@ -21,7 +21,8 @@ export default function JurnalPage() {
         <p className='mt-3' style={{textAlign:'justify'}}>Ресторан Astana nury - это не только место, где можно отведать превосходную кухню, но и настоящая площадка для создания воспоминаний. Мы стремимся предоставить вам и вашим гостям уникальное и удовлетворительное впечатление, которое будет продолжать радовать вас долгое время.</p>
         <p className='mt-3' style={{textAlign:'justify'}}>Мы приглашаем вас посетить наш ресторан и открыть для себя мир вкусов и гостеприимства казахской культуры в самом сердце Астаны. Будем рады видеть вас в Astana nury!</p>
 
-        <a href="./menu.pdf" class="mb-5 btn btn-primary" download>Скачать меню</a>
+        <a href="https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2F6%2FgMavtRwzgny9GoBb%2BY8JryJ7LEpyeZZpxWsBX%2BLuQgfiwtT3Ssa3dkTlS9EjLPq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=menu.pdf" target="_blank" class="mb-5 btn btn-primary">Menu PDF</a>
+
     
     </Container>
   )
