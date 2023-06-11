@@ -1,3 +1,85 @@
-const comment = [{"id":1,"user_id":102,"restaurant_id":1,"comment":"Amazing food and great service!","date":"2022.04.24","title":"Best Restaurant Ever"},{"id":2,"user_id":102,"restaurant_id":2,"comment":"The restaurant was average, nothing special.","date":"2022.04.23","title":"Decent restaurant"},{"id":3,"user_id":103,"restaurant_id":3,"comment":"Incredible food and very attentive service!","date":"2022.04.22","title":"Amazing experience"},{"id":4,"user_id":104,"restaurant_id":4,"comment":"Good food and good service.","date":"2022.04.21","title":"Solid restaurant"},{"id":5,"user_id":105,"restaurant_id":5,"comment":"Food was mediocre and service was slow.","date":"2022.04.20","title":"Disappointing experience"},{"id":6,"user_id":105,"restaurant_id":6,"comment":"Great food and excellent service!","date":"2022.04.19","title":"Wonderful restaurant"},{"id":7,"user_id":104,"restaurant_id":7,"comment":"Average food and service, nothing special.","date":"2022.04.18","title":"Decent enough"},{"id":8,"user_id":102,"restaurant_id":8,"comment":"Very good food and friendly service.","date":"2022.04.17","title":"Nice restaurant"},{"id":9,"user_id":101,"restaurant_id":9,"comment":"Absolutely incredible food and service, will definitely be coming back!","date":"2022.04.16","title":"Unforgettable experience"},{"id":10,"user_id":101,"restaurant_id":10,"comment":"Pizza was okay, but nothing special. Service was good though.","date":"2022.04.15","title":"Average pizza place"}];
+const comment = [
+  {
+    id: 1,
+    user_id: 102,
+    restaurant_id: 1,
+    comment: "Amazing food and great service!",
+    date: "2022.04.24",
+    title: "Best Restaurant Ever",
+  },
+  {
+    id: 2,
+    user_id: 102,
+    restaurant_id: 2,
+    comment: "The restaurant was average, nothing special.",
+    date: "2022.04.23",
+    title: "Decent restaurant",
+  },
+  {
+    id: 3,
+    user_id: 103,
+    restaurant_id: 3,
+    comment: "Incredible food and very attentive service!",
+    date: "2022.04.22",
+    title: "Amazing experience",
+  },
+  {
+    id: 4,
+    user_id: 104,
+    restaurant_id: 4,
+    comment: "Good food and good service.",
+    date: "2022.04.21",
+    title: "Solid restaurant",
+  },
+  {
+    id: 5,
+    user_id: 105,
+    restaurant_id: 5,
+    comment: "Food was mediocre and service was slow.",
+    date: "2022.04.20",
+    title: "Disappointing experience",
+  },
+  {
+    id: 6,
+    user_id: 105,
+    restaurant_id: 6,
+    comment: "Great food and excellent service!",
+    date: "2022.04.19",
+    title: "Wonderful restaurant",
+  },
+  {
+    id: 7,
+    user_id: 104,
+    restaurant_id: 7,
+    comment: "Average food and service, nothing special.",
+    date: "2022.04.18",
+    title: "Decent enough",
+  },
+  {
+    id: 8,
+    user_id: 102,
+    restaurant_id: 8,
+    comment: "Very good food and friendly service.",
+    date: "2022.04.17",
+    title: "Nice restaurant",
+  },
+  {
+    id: 9,
+    user_id: 101,
+    restaurant_id: 9,
+    comment:
+      "Absolutely incredible food and service, will definitely be coming back!",
+    date: "2022.04.16",
+    title: "Unforgettable experience",
+  },
+  {
+    id: 10,
+    user_id: 101,
+    restaurant_id: 10,
+    comment: "Pizza was okay, but nothing special. Service was good though.",
+    date: "2022.04.15",
+    title: "Average pizza place",
+  },
+];
 
 export default comment;
